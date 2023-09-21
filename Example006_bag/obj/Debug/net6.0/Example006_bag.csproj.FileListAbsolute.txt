@@ -1,0 +1,15 @@
+C:\Git\Homework1\sem_28_07_23\Example006_bag\bin\Debug\net6.0\Example006_bag.exe
+C:\Git\Homework1\sem_28_07_23\Example006_bag\bin\Debug\net6.0\Example006_bag.deps.json
+C:\Git\Homework1\sem_28_07_23\Example006_bag\bin\Debug\net6.0\Example006_bag.runtimeconfig.json
+C:\Git\Homework1\sem_28_07_23\Example006_bag\bin\Debug\net6.0\Example006_bag.dll
+C:\Git\Homework1\sem_28_07_23\Example006_bag\bin\Debug\net6.0\Example006_bag.pdb
+C:\Git\Homework1\sem_28_07_23\Example006_bag\obj\Debug\net6.0\Example006_bag.csproj.AssemblyReference.cache
+C:\Git\Homework1\sem_28_07_23\Example006_bag\obj\Debug\net6.0\Example006_bag.GeneratedMSBuildEditorConfig.editorconfig
+C:\Git\Homework1\sem_28_07_23\Example006_bag\obj\Debug\net6.0\Example006_bag.AssemblyInfoInputs.cache
+C:\Git\Homework1\sem_28_07_23\Example006_bag\obj\Debug\net6.0\Example006_bag.AssemblyInfo.cs
+C:\Git\Homework1\sem_28_07_23\Example006_bag\obj\Debug\net6.0\Example006_bag.csproj.CoreCompileInputs.cache
+C:\Git\Homework1\sem_28_07_23\Example006_bag\obj\Debug\net6.0\Example006_bag.dll
+C:\Git\Homework1\sem_28_07_23\Example006_bag\obj\Debug\net6.0\refint\Example006_bag.dll
+C:\Git\Homework1\sem_28_07_23\Example006_bag\obj\Debug\net6.0\Example006_bag.pdb
+C:\Git\Homework1\sem_28_07_23\Example006_bag\obj\Debug\net6.0\Example006_bag.genruntimeconfig.cache
+C:\Git\Homework1\sem_28_07_23\Example006_bag\obj\Debug\net6.0\ref\Example006_bag.dll

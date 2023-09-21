@@ -1,0 +1,15 @@
+C:\Git\Homework1\sem_28_07_23\Homework_1_seminar\Zadanie_6\bin\Debug\net6.0\Zadanie_6.exe
+C:\Git\Homework1\sem_28_07_23\Homework_1_seminar\Zadanie_6\bin\Debug\net6.0\Zadanie_6.deps.json
+C:\Git\Homework1\sem_28_07_23\Homework_1_seminar\Zadanie_6\bin\Debug\net6.0\Zadanie_6.runtimeconfig.json
+C:\Git\Homework1\sem_28_07_23\Homework_1_seminar\Zadanie_6\bin\Debug\net6.0\Zadanie_6.dll
+C:\Git\Homework1\sem_28_07_23\Homework_1_seminar\Zadanie_6\bin\Debug\net6.0\Zadanie_6.pdb
+C:\Git\Homework1\sem_28_07_23\Homework_1_seminar\Zadanie_6\obj\Debug\net6.0\Zadanie_6.csproj.AssemblyReference.cache
+C:\Git\Homework1\sem_28_07_23\Homework_1_seminar\Zadanie_6\obj\Debug\net6.0\Zadanie_6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Git\Homework1\sem_28_07_23\Homework_1_seminar\Zadanie_6\obj\Debug\net6.0\Zadanie_6.AssemblyInfoInputs.cache
+C:\Git\Homework1\sem_28_07_23\Homework_1_seminar\Zadanie_6\obj\Debug\net6.0\Zadanie_6.AssemblyInfo.cs
+C:\Git\Homework1\sem_28_07_23\Homework_1_seminar\Zadanie_6\obj\Debug\net6.0\Zadanie_6.csproj.CoreCompileInputs.cache
+C:\Git\Homework1\sem_28_07_23\Homework_1_seminar\Zadanie_6\obj\Debug\net6.0\Zadanie_6.dll
+C:\Git\Homework1\sem_28_07_23\Homework_1_seminar\Zadanie_6\obj\Debug\net6.0\refint\Zadanie_6.dll
+C:\Git\Homework1\sem_28_07_23\Homework_1_seminar\Zadanie_6\obj\Debug\net6.0\Zadanie_6.pdb
+C:\Git\Homework1\sem_28_07_23\Homework_1_seminar\Zadanie_6\obj\Debug\net6.0\Zadanie_6.genruntimeconfig.cache
+C:\Git\Homework1\sem_28_07_23\Homework_1_seminar\Zadanie_6\obj\Debug\net6.0\ref\Zadanie_6.dll

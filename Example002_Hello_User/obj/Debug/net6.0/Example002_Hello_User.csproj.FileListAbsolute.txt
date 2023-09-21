@@ -1,0 +1,15 @@
+C:\Git\Homework1\sem_28_07_23\Example002_Hello_User\bin\Debug\net6.0\Example002_Hello_User.exe
+C:\Git\Homework1\sem_28_07_23\Example002_Hello_User\bin\Debug\net6.0\Example002_Hello_User.deps.json
+C:\Git\Homework1\sem_28_07_23\Example002_Hello_User\bin\Debug\net6.0\Example002_Hello_User.runtimeconfig.json
+C:\Git\Homework1\sem_28_07_23\Example002_Hello_User\bin\Debug\net6.0\Example002_Hello_User.dll
+C:\Git\Homework1\sem_28_07_23\Example002_Hello_User\bin\Debug\net6.0\Example002_Hello_User.pdb
+C:\Git\Homework1\sem_28_07_23\Example002_Hello_User\obj\Debug\net6.0\Example002_Hello_User.csproj.AssemblyReference.cache
+C:\Git\Homework1\sem_28_07_23\Example002_Hello_User\obj\Debug\net6.0\Example002_Hello_User.GeneratedMSBuildEditorConfig.editorconfig
+C:\Git\Homework1\sem_28_07_23\Example002_Hello_User\obj\Debug\net6.0\Example002_Hello_User.AssemblyInfoInputs.cache
+C:\Git\Homework1\sem_28_07_23\Example002_Hello_User\obj\Debug\net6.0\Example002_Hello_User.AssemblyInfo.cs
+C:\Git\Homework1\sem_28_07_23\Example002_Hello_User\obj\Debug\net6.0\Example002_Hello_User.csproj.CoreCompileInputs.cache
+C:\Git\Homework1\sem_28_07_23\Example002_Hello_User\obj\Debug\net6.0\Example002_Hello_User.dll
+C:\Git\Homework1\sem_28_07_23\Example002_Hello_User\obj\Debug\net6.0\refint\Example002_Hello_User.dll
+C:\Git\Homework1\sem_28_07_23\Example002_Hello_User\obj\Debug\net6.0\Example002_Hello_User.pdb
+C:\Git\Homework1\sem_28_07_23\Example002_Hello_User\obj\Debug\net6.0\Example002_Hello_User.genruntimeconfig.cache
+C:\Git\Homework1\sem_28_07_23\Example002_Hello_User\obj\Debug\net6.0\ref\Example002_Hello_User.dll

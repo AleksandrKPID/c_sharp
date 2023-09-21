@@ -1,0 +1,5 @@
+C:\Git\Homework1\sem_28_07_23\Homework_2_seminar\obj\Debug\net6.0\Homework_2_seminar.csproj.AssemblyReference.cache
+C:\Git\Homework1\sem_28_07_23\Homework_2_seminar\obj\Debug\net6.0\Homework_2_seminar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Git\Homework1\sem_28_07_23\Homework_2_seminar\obj\Debug\net6.0\Homework_2_seminar.AssemblyInfoInputs.cache
+C:\Git\Homework1\sem_28_07_23\Homework_2_seminar\obj\Debug\net6.0\Homework_2_seminar.AssemblyInfo.cs
+C:\Git\Homework1\sem_28_07_23\Homework_2_seminar\obj\Debug\net6.0\Homework_2_seminar.csproj.CoreCompileInputs.cache
